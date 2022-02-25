@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation extraordinary contained in a letter from Lintz, concerning another great victory over the Turks, January the 19th, 1683/4</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58416</idno>
+            <idno type="STC">Wing R777</idno>
+            <idno type="STC">ESTC R3248</idno>
+            <idno type="EEBO-CITATION">11880839</idno>
+            <idno type="OCLC">ocm 11880839</idno>
+            <idno type="VID">50323</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58416)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50323)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation extraordinary contained in a letter from Lintz, concerning another great victory over the Turks, January the 19th, 1683/4</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Turco-Polish Wars, 1683-1699.</term>
+               <term>Austro-Turkish War, 1683-1699.</term>
+               <term>Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:50323:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>A Relation Extraordinary Contained in a LETTER from LINTZ, Concerning another great Victory over the TURKS.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>January</hi> the 19<hi>th.</hi> 1683/4.</date>
+               </dateline>
+            </opener>
+            <p>ON <hi>Saturday</hi> the 15th. inſtant arrived in this Court the Prince <hi>Lubomursky</hi> from the King of <hi>Poland,</hi> whom he accompanied at his departure from <hi>Hungary,</hi> to go to <hi>Cracovia:</hi> He hath told the Emperour, That his Majeſty of <hi>Poland</hi> and the Senate being ill ſatisfied with the <hi>Polonian</hi> Troops, who had without orders quitted the Quarters that had been aſſign'd them in <hi>Hungary,</hi> the Senate have ordain'd, that thoſe Troops ſhould not have Winter-quarters allotted them within the Kingdom of <hi>Poland;</hi> and that they ſhould be only permitted to enjoy a bare reception within the Countrey, to puniſh them for their diſobedience. He adds likewiſe, That the Count <hi>Humany,</hi> a great Lord of <hi>Hun<g ref="char:EOLhyphen"/>gary,</hi> who has latelyjoyned himſelf to his Imperial Majeſty, having requeſted a <hi>Polonian</hi> Re<g ref="char:EOLhyphen"/>giment to quarter on his Eſtate, Count <hi>Teckley</hi> had cauſed a part of them to be attacqued, and had put them to the Sword; and that afterwards Count <hi>Teckley</hi> had ſent to the King of <hi>Po<g ref="char:EOLhyphen"/>land</hi> to excuſe the matter, ſaying, that the thing was not done by his order, and that he had no knowledge of it: Unto which his Majeſty of <hi>Poland</hi> (who was not ſatisfied with his ex<g ref="char:EOLhyphen"/>cuſes) anſwer'd, that he would ſpeedily treat him according to his merits, and would no more ſee Count <hi>Teckley</hi>'s Deputies, but commanded them immediately to retire: And that as ſoon as the Count <hi>Sherfenbergh</hi> ſhall be arrived in <hi>Poland,</hi> to treat and adjuſt with that King what meaſures are ſit to be taken againſt that Rebel, it is not doubted but that there will be affectual courſes taken to that purpoſe. By the manner of the King of <hi>Poland</hi>'s pro<g ref="char:EOLhyphen"/>ceedings, and by all that Prince <hi>Lubormusky</hi> has reported, it may be evidently ſeen that his ſaid Majeſty acts very cordially, and that he is firmly reſolved with all poſſible vigor to pro<g ref="char:EOLhyphen"/>ſecute thoſe intentions.</p>
+            <p>We may add to this, the important News which comes from <hi>Holland,</hi> which imporrts, That after the <hi>Hollanders</hi> and ſome Loyal <hi>Coſſacks</hi> had made themſelves Maſters of all the Champi<g ref="char:EOLhyphen"/>on Countrey in the <hi>
+                  <g ref="char:V">Ʋ</g>krain,</hi> and had poſſeſſed themſelves of the Frotreſſes there, the <hi>Walla<g ref="char:EOLhyphen"/>chians</hi> and the <hi>Moldavians</hi> had put themſelves under the protection of <hi>Holland;</hi> whereupon the <hi>Turks</hi> and <hi>Tartars</hi> were commanded by the Grand Seignior to take vengeance of them by an Invaſion, which they could not execute, by reaſon the Chriſtians, inſtead of ſtaying for them, went to meet them, forcing all the paſſages, and vigorouſly attacquing them, have killed more than 30000 on the place; and having waſted 50 Leagues of their Countrey with Fire and Sword, they have taken the Fortreſs <hi>Bialgorod,</hi> and the <hi>black Sea,</hi> with two other Strengths thereabouts. They have killed above 80000 perſons of all Ages and Sexes, and have taken a very rich Booty, and made an infinite number of Slaves, beſides the delivery of every many Chriſtians from Slavery. The good fortune of the Chriſtians would have it, that the Infides having paſſed the River <hi>Nieſter,</hi> the Bridges whereof they had broken to hinder their retreat, the <hi>Poles</hi> and <hi>Coſſacks,</hi> had mended the ſaid Bridges, and were entred farther into the Enemies Countrey, with an intention to proſecute their Victory towards <hi>Adrianople</hi>
+               <g ref="char:punc">▪</g> and if their ſucceſs anſwers their expectations, they hope the next Summer to approach very near to <hi>Conſtantinople</hi> it ſelf.</p>
+            <p>There are Letters which ſay, That after this great Victory, (than which none greater has been obtained for many Ages) they did deliver more than 70000 Chriſtians from Bondage.</p>
+            <p>His Imperial Majeſty has diſpatch'd extraordinary Couriers with the News of this Victory to the <hi>Pope,</hi> and to the Republick of <hi>Venice.</hi> We are preparing here, to render Thanks unto God, by having <hi>Te Deum</hi> ſung.</p>
+            <p>So ſoon as more diſtinct Relations ſhall come to our hands of theſe Advantages, we ſhall not fail to publiſh them.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Nathaniel Thompſon</hi> at the Entrance into the <hi>Old-Spring Garden,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
